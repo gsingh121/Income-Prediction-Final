@@ -1,5 +1,4 @@
 # Income-Prediction-Final
-
 Problem Statement:
 
 To build a classification methodology to determine whether a person makes over 50K per year.
